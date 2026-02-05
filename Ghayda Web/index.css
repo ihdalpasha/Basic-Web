@@ -1,0 +1,47 @@
+    body.a {
+      background-image: url('Luv.jfif');
+      background-size: 50% 40%;
+      background-attachment: scroll;
+    }
+    .Miss {
+      text-align: center; color: red; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .Picture {
+      display: flex; align-items: center;
+    }
+    .Wish {
+      color:deeppink;
+    }
+    .Schedule {
+      color: rgb(35, 201, 104);
+    }
+    .Seru {
+      color: maroon;
+    }
+    .Text {
+      color: lightslategrey;
+    }
+    .T {
+      text-align: center; align-self: center;
+    }
+    .K {
+      text-align: right;
+    }
+    .L {
+      text-align: left;
+    }
+    .Button {
+      background-color: cornflowerblue; color: deeppink; border-radius: 5px; font-size: 20; 
+    }
+    .Flex {
+    
+      flex-direction: row;
+    }
+    .lti {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    }
+    #Missyou{
+        color: rgb(255, 0, 170);
+    }
